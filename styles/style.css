@@ -1,4 +1,5 @@
 .APOD {
+<<<<<<< HEAD
   /* The image used */
   background-image: url("https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg");
 
@@ -10,3 +11,16 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+=======
+    /* The image used /
+    background-image: url();
+  
+    / Full height /
+    height: 100%;
+  
+    / Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+>>>>>>> 3897d0283e30857aab4993d53bfd99ad438d23a4
