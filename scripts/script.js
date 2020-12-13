@@ -1,4 +1,5 @@
-import { nasa } from "./config.js";
+import  nasa  from "./config.js";
+import moment  from 'moment';
 
 
   const userAction = async () => {
@@ -15,6 +16,3 @@ import { nasa } from "./config.js";
 
     console.log(APOD_responseJSON)
   }
-
-  
-
