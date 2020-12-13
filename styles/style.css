@@ -1,6 +1,6 @@
 .APOD {
   /* The image used */
-  background-image: url();
+  background-image: url("https://apod.nasa.gov/apod/image/2012/SaJu2020Lb_1024.jpg");
 
   /* Full height */
   height: 100%;

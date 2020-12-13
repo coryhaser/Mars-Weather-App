@@ -1,4 +1,4 @@
-import { nasa } from "./config.js";
+import { nasa } from "./utils/config.js";
 
 const userAction = async () => {
     const response = await fetch(`${nasa.api_url}/insight_weather/?api_key=${nasa.api_key}&feedtype=json&ver=1.0`);
